@@ -19,6 +19,7 @@ package
             trace("commit 2");
             trace("commit 3");
 			trace("commit 5");
+            trace("commit 4");
         }
     }
 }
