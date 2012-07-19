@@ -17,8 +17,9 @@ package
         {
             trace("commit 1");
             trace("commit 2");
-            trace("commit 3");
+            trace("commit new commit");
 			trace("commit 5");
+            trace("commit 4");
             trace("commit 4");
         }
     }

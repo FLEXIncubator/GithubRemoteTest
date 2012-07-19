@@ -14,4 +14,10 @@
 	<natures>
 		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>FLEX_SDK_VERSION</name>
+			<value>Flex%205</value>
+		</variable>
+	</variableList>
 </projectDescription>
