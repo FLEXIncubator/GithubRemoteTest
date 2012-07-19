@@ -16,6 +16,7 @@ package
         public function GithubRemoteTest()
         {
             trace("commit 1");
+            trace("commit 3");
         }
     }
 }
