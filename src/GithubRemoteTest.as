@@ -21,6 +21,8 @@ package
 			trace("commit 5");
             trace("commit 4");
             trace("commit 4");
+            trace("commit 4");
+            trace("commit 4");
         }
     }
 }
